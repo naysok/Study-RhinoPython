@@ -1,7 +1,7 @@
 # Study-RhinoPython  
 
-RhinoPython のメモ  
 
+### Edit, Run  
 
 ```
 EditPythonScript
@@ -11,9 +11,34 @@ RunPythonScript
 >>> Run Script, Select File
 ```
 
+
 ---  
 
-コマンドライン引数というか、実行時の引数的に使える、rs.get なんとか。  
+
+### files  
+
+- fractal  
+
+- use_my_package  
+
+- command_line_arguments_drawRect.py  
+
+- command_line_arguments.py  
+
+- set_material_export_fbx.py + .fbx  
+
+
+
+
+---
+
+---  
+
+
+
+### command line arguments, fillter   
+
+rs.get なんとか。  
 
 ```
 rs.GetObject(msg, filter)
@@ -47,3 +72,7 @@ Filter
 Ref.  
 
 [https://developer.rhino3d.com/api/RhinoScriptSyntax/#selection-GetObjects](https://developer.rhino3d.com/api/RhinoScriptSyntax/#selection-GetObjects)  
+
+
+
+---  
