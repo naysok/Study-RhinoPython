@@ -17,15 +17,20 @@ RunPythonScript
 
 ### files  
 
-- fractal  
+- set_material  
+  - 色つきの 3D モデルの作り方。  
+  [set_material.md](https://github.com/naysok/Study-RhinoPython/blob/master/set_material/set_material.md)  
 
 - use_my_package  
+  - パッケージの作り方使い方。  
+
+
 
 - command_line_arguments_drawRect.py  
 
 - command_line_arguments.py  
 
-- set_material_export_fbx.py + .fbx  
+
 
 
 
