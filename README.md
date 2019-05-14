@@ -17,9 +17,19 @@ RunPythonScript
 
 ### files  
 
+
+- export_csv  
+  - csv を書き出す。  
+  - パスは、// で．  
+  ```python
+  path = "C://Users//yoshioca//Documents//Study-RhinoPython//export_csv//export_csv.csv"
+  ```
+
+
 - set_material  
   - 色つきの 3D モデルの作り方。  
   [set_material.md](https://github.com/naysok/Study-RhinoPython/blob/master/set_material/set_material.md)  
+
 
 - use_my_package  
   - パッケージの作り方使い方。  
